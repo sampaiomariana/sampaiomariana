@@ -1,8 +1,8 @@
 ## Hey 👋
 
 Welcome to my personal github profile. In this repository you will find my projects done and in development.
-
 👩🏻‍💻.
+
 
 - 🔭 I’m currently working on database and data analysis
 - 🌱 I’m currently learning web development
