@@ -1,7 +1,7 @@
 ## Hey 👋
 
 Welcome to my personal github profile. In this repository you will find my projects done and in development.
-So enjoy the trip. 
+
 👩🏻‍💻.
 
 - 🔭 I’m currently working on database and data analysis
