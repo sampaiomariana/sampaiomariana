@@ -12,4 +12,4 @@ Fore more informations reach me out 👇🏼
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampaiomariana)](https://github.com/sampaiomariana/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sampaiomariana&show_icons=true)
+
