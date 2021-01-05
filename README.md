@@ -1,5 +1,7 @@
 ## Hey 👋
 My name is Mariana Sampaio. I’m from Brazil. I’m a student of Computer Engineering 👩🏻‍💻.
+Welcome to my personal github profile. In this repository you will find my projects done and in development.
+So enjoy the trip.
 
 - 🔭 I’m currently working on database and data analysis
 - 🌱 I’m currently learning web development
