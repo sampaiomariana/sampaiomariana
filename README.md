@@ -4,8 +4,8 @@ Welcome to my personal github profile. In this repository you will find my proje
 👩🏻‍💻.
 
 
-- 🔭 I’m currently working on database and data analysis
-- 🌱 I’m currently learning web development
+- 🔭 I’m currently working on database and data analysis.
+- 🌱 I’m currently learning web development and UX/UI.
 
 Fore more informations reach me out 👇🏼
 
