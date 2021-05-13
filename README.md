@@ -13,4 +13,4 @@ Fore more informations reach me out 👇🏼
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampaiomariana&layout=compact)](https://github.com/sampaiomariana/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sampaiomariana)](https://github.com/sampaiomariana/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sampaiomariana](https://github.com/sampaiomariana/github-readme-stats)
