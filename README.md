@@ -12,3 +12,5 @@ Fore more informations reach me out 👇🏼
  [![Linkedin Badge](https://img.shields.io/badge/Mariana%20Sampaio-990033?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariana-borges-de-sampaio-895ab810b/)](https://www.linkedin.com/in/mariana-borges-de-sampaio-895ab810b/)  [![Gmail Badge](https://img.shields.io/badge/-marisampa26@gmail.com-990033?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marisampa26@gmail.com)](mailto:marisampa26@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampaiomariana&layout=compact)](https://github.com/sampaiomariana/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sampaiomariana)](https://github.com/sampaiomariana/github-readme-stats)
